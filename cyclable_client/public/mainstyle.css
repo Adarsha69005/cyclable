@@ -1,0 +1,32 @@
+body {
+    margin-bottom: 50px;
+    background: #EB5757;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+/* .container {
+    width: auto;
+    max-width: 900px;
+    padding: 0 15px;
+} */
+
+.container .footer-text {
+    margin: 20px 0;
+
+}
+.badge {
+    background-color: #e4aa48;
+}
+button.link {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 3;
+    outline: none;
+    outline-offset: 0;
+    color: white;
+}
+
